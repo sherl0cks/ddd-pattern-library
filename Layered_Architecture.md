@@ -29,3 +29,7 @@ capture	essential	business	knowledge	and	put	it	to	work.
 The	key	goal	here	is	isolation.	Related	patterns,	such	as	“Hexagonal	Architecture”	may	serve	
 as	 well	 or	 better	 to	 the	 degree	 that	 they	 allow	 our	 domain	 model	 expressions	 to	 avoid	
 dependencies	on	and	references	to	other	system	concerns.
+
+## Source
+
+Page 10 of [DDD reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf). Remixed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
