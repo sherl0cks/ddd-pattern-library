@@ -1,6 +1,6 @@
 # Domain Model
 
-A	 system	 of	 abstractions	 that	 describes	 selected	 aspects	 of	 a	 domain	 and	 can	 be	 used	 to	
+A	 system	 of	 abstractions	 that	 describes	 selected	 aspects	 of	 a	 [domain](Domain.md)	 and	 can	 be	 used	 to	
 solve	problems	related	to	that	domain.
 
 ## Source
