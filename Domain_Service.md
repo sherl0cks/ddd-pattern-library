@@ -17,4 +17,4 @@ language.
 
 Page 14 of the [DDD reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf). Remixed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-* Domain has been added to the title for clarity, as a common issue is handling the overloaded terms of [Domain vs Application Service](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/)
+NOTE: Domain has been added to the title for clarity, as a common issue is handling the overloaded terms of [Domain vs Application Service](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/)
