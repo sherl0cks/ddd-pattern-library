@@ -1,4 +1,4 @@
-# Entities
+# Factories
 
 When	creation	of	an	entire,	internally	consistent	aggregate,	or	a	large	value	object,	becomes	
 complicated	or	reveals	too	much	of	the	internal	structure,	factories	provide	encapsulation.
