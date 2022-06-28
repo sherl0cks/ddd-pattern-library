@@ -66,8 +66,7 @@ phony object that doesn't actually represent anything, the standalone operation 
 anyone.
 
 A good `SERVICE` has three characteristics.
-1. `The operation relates to a domain concept that is not a natural part of an `ENTITY` or `VALUE
-OBJECT`.
+1. The operation relates to a domain concept that is not a natural part of an `ENTITY` or `VALUE OBJECT`.
 2. The interface is defined in terms of other elements of the domain model.
 3. The operation is stateless.
 
